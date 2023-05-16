@@ -25,7 +25,7 @@
 <body>
 	리즈의 번역 사이트
 	
-	<h2> 즐거운 그묘일~!</h2>
+	<h2> 바미 선샌님 ㅎㅇ</h2>
 	
 	<div>
 		<textarea style="width : 100%" class="form-control" id="msg">
